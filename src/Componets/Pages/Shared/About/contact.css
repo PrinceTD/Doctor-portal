@@ -1,0 +1,16 @@
+.colorBg{
+   padding-left: 24px;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   border-radius: 10px;
+   background-color: #19D3AE;
+   color: white;
+}
+.colorBgToo{
+   padding-left: 24px;
+   padding-top: 25px;
+   padding-bottom: 25px;
+   border-radius: 10px;
+   background-color: #3A4256;
+   color: white;
+}
